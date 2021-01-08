@@ -1,0 +1,7 @@
+/.DS_Store
+/.vscode
+/Sort_images.ui
+/__pycache__
+/downloadmodel.ui
+/rough.cpp
+opencv-trained_models/.DS_Store
