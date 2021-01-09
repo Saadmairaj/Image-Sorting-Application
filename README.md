@@ -11,10 +11,10 @@ There are multiple options to configure for desired results:-
 3. *Threshold:-* We can set the threshold for the detection.
 
 4. *Checkboxes of the application:-*
-   • *Show Visualization:-* To see the bounding boxes in the images.
-   • *Save Visualization:-* To save those bounding boxes with the images.
-   • *Go through folders:-* This will walk and fetches images from folders inside folders.
-   • *All Objects:-* Every object detected by the model will also count.
+   - *Show Visualization:-* To see the bounding boxes in the images.
+   - *Save Visualization:-* To save those bounding boxes with the images.
+   - *Go through folders:-* This will walk and fetches images from folders inside folders.
+   - *All Objects:-* Every object detected by the model will also count.
 
 5. *Search bar:-* It is to search all the images containing the searched object for example if we search for “Cat” it only sort all the images of cat to one folder and ignore any other object which is not a cat.
 
